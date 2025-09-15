@@ -1,0 +1,7 @@
+com\playerworlds\commands\CreateWorldCommand.class
+com\playerworlds\storage\WorldRegistry$WorldData.class
+com\playerworlds\commands\JoinWorldCommand.class
+com\playerworlds\storage\WorldRegistry.class
+com\playerworlds\managers\WorldManager.class
+com\playerworlds\commands\LobbyCommand.class
+com\playerworlds\PlayerWorlds.class

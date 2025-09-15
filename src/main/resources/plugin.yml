@@ -1,0 +1,10 @@
+name: PlayerWorlds
+version: 1.0
+main: com.playerworlds.PlayerWorlds
+commands:
+  createworld:
+    description: Create your personal world
+  joinworld:
+    description: Join your personal world
+  lobby:
+    description: Return to the lobby
