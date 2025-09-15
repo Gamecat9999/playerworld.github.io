@@ -1,9 +1,9 @@
 # 🧱 PlayerWorlds Plugin
 
 **Version:** 1.0-SNAPSHOT  
-**Author:** James  
+**Author:** gamecat999 
 **Platform:** Spigot 1.20.1  
-**License:** MIT (or your preferred license)
+
 
 ---
 
